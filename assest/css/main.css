@@ -609,6 +609,7 @@
 
 .header__cart-wrap:hover
 .header__cart-list {
+    z-index: 2;
     display: block;
 }
 
